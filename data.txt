@@ -1,3 +1,4 @@
 Name: Silvio
 Age: 46
 Favorite Color: green
+Added line before using `git pull`.
